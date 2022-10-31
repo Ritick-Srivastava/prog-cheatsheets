@@ -11,4 +11,4 @@ Contributors can contribute to the project in the following ways:
 1. Submitting improvements to the existing cheatsheets.
 2. Submitting new domain cheatsheets.
 
-NOTE: For detailed instructions refer to [CONTRIBUTING.md](./docs/CONTRIBUTING.md)
+NOTE: For detailed instructions refer to [CONTRIBUTING.md](./CONTRIBUTING.md)
